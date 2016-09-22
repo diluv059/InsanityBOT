@@ -1,0 +1,50 @@
+{
+	"origin": 
+[
+" #blank#  is such a turnoff!", 
+"When I’m #blank# , I #blank# .", 
+"All I want for Christmas is #blank#.", 
+"When I’m sad I like to  #blank#.", 
+"I fall asleep to the sound of  #blank#.", 
+"All I want for Christmas is #blank#.", 
+"Look, it’s a  #blank#.",
+"#blank# is rich in protein",
+"Today I ate  #blank#.",
+"My research paper is on  #blank#.",
+"I got  #blank# for my birthday.",
+"#blank# helps me unwind.",
+"That's totally  #blank#.",
+"My favorite #blank# is #blank#.",
+"Look out for that #blank#!",
+"I woke up surrounded by #blank#.",
+"When I walked into the room, there was #blank#.",
+"My mom sent me a #blank#.",
+"I was asked to bring #blank#, but I accidentally brought #blank#.”,
+"She screamed “#blank#” during sex.",
+"I almost got run over by #blank#.",
+"I'm not a big fan of  #blank#.",
+"What would  #blank# do?",
+"When I grow up, I really want to become a #blank#.",
+"What Donald Trump really wants to build is a #blank#.",
+"You want #blank# with that?",
+"When I hit a writer’s block, I think about #blank# to get inspiration.",
+"Quick! The police is here! Hide the #blank# in the closet under the stairs!",
+"My biggest nightmare is #blank#.",
+"I'm giving up  #blank# for lent.",
+"#blank# is a girl's best friend.",
+"You should add a little #blank# to your skin routine.",
+],
+	"blank" : 
+[
+"northern",
+"burn",
+"hour",
+"highway",
+"calling",
+"absence",
+"tremor",
+"binge" 
+]
+
+}
+
