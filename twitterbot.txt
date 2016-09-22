@@ -218,7 +218,33 @@
 "alcoholism", 
 "single people", 
 "shitty superheroes", 
-"my grandma" 
+"grandma",
+"altar boys",
+"incest",
+"nutella",
+"peanut butter and jelly",
+"grape",
+"rape",
+"blowjobs",
+"rim jobs",
+"erection",
+"pipe",
+"Yung Thug",
+"poop",
+"xbox",
+"a tattoo of a wolf",
+"mountain dew",
+"sweat",
+"anal",
+"internet explorer",
+"pigs",
+"sheep",
+"Jimmy Neutron DVD collection",
+"natural spring water",
+"liquor",
+"clementine",
+"G.I. JOE",
+"white cheddar popcorn","squelch","queen","chex mix","bleach","lemon pledge","apple watch","gin","foot fetish","beauty blender","my girlfriend's DMs","Drake","Magnum Dong","shrimp fried rice","crunchy spicy salmon roll","cherry","relatable posts","My Chemical Romance's breakup","vomit","a pile of cream","dank","erectile dysfunction","squidward","acne","orange","snapchat","diet Dr. Pepper","candy-coated almonds","Amazon Prime","espadrilles","checkers","daddy”,”artisanal vape juice”
 ]
 }
 
